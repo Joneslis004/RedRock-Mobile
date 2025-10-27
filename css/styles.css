@@ -360,7 +360,7 @@ header span {
 }
 #primaryNav button.open::before {
   content: "✕";
-  color: #d86619;
+  color: #b14d00;
 }
 #primaryNav ul {
   position: absolute;
@@ -384,7 +384,7 @@ header span {
   text-decoration: none;
 }
 #primaryNav ul li.active a {
-  background-color: #d86619;
+  background-color: #b14d00;
   color: white;
   font-weight: 500;
 }
@@ -400,7 +400,7 @@ main img {
 }
 
 .row.bg-color {
-  background-color: #d86619;
+  background-color: #b14d00;
   padding: 2rem 1rem;
   border-radius: 8px;
 }
@@ -499,7 +499,7 @@ main p {
 
 /* --------------------------- FOOTER --------------------------- */
 #footerWrapper {
-  background-color: #d86619;
+  background-color: #b14d00;
 }
 
 footer {
@@ -510,7 +510,7 @@ footer {
   line-height: 150%;
 }
 footer a {
-  color: #f2d398;
+  color: white;
 }
 
 @media only screen and (min-width: 39rem) {
